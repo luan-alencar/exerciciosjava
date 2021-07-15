@@ -9,7 +9,6 @@ public class FuncionarioService {
         return (FUNCIONARIO.getSalario() * 0.1) + FUNCIONARIO.getSalario();
     }
 
-
     public static void main(String[] args) {
 
         FUNCIONARIO.setNomeFuncionario("Thaylanna");
