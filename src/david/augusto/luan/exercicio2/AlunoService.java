@@ -1,7 +1,5 @@
 package david.augusto.luan.exercicio2;
 
-import david.augusto.luan.exercicio2.Aluno;
-
 public class AlunoService {
 
     public Double calcularMediaAritmetricaSimples(Aluno aluno) {

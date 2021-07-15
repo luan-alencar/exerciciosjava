@@ -6,7 +6,6 @@ public class Aluno {
     private Double nota1;
     private Double nota2;
     private Double media;
-    private Double mediaTotal;
 
     public String getNome() {
         return nome;
